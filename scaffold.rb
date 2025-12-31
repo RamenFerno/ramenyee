@@ -62,6 +62,7 @@ if !settings["plugins"].nil?
   end
 end
 
+settings["twitch_embed"] = Liquid::Template.parse(settings["twitch_embed"]).render(settings) if settings["twitch_embed"]
 
 if !settings["links"].nil?
   settings["links"].each_with_index do |link, index|

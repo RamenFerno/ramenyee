@@ -45,7 +45,8 @@ a:hover {
 .container {
   width: 100%;
   max-width: var(--content-max);
-  margin: 0 auto;   
+  margin: 0 auto;
+  color: #00FFFF;
 }
 
 .profile-pic {

@@ -95,6 +95,22 @@ a {
   margin-top: 25px;
 }
 
+.playlist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5em 0;
+  padding: 0;
+}
+
+.playlist iframe {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  width: 100%;
+  border: none;
+}
+
 .icon-button {
   border: none;
   width: 40px;

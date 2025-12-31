@@ -3,8 +3,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
+
+:root { --content-max: 640px; }
 
 /* Light mode (default) */
 body {
@@ -32,8 +34,9 @@ a {
 }
 
 .container {
-  width: 90%;
-  max-width: 450px;
+  width: 100%;
+  max-width: var(--content-max);
+  margin: 0 auto;   
 }
 
 .profile-pic {
@@ -156,8 +159,8 @@ a {
 .overlay {
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(3px);
-  width: 90%;
-  max-width: 640px;
+  width: 100%;
+  max-width: var(--content-max);
   margin: 0 auto;
   padding: 2em;
   border-radius: 16px;

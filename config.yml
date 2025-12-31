@@ -26,7 +26,14 @@ name: "RamenFerno🍜🔥"
 
 # Tagline section text
 tagline: >-
-    "VTuber, ramen chef, and fire hazard for your mind. I stream obscure indie games, blast wild tunes, and get possessed live by a fire daemon named Cal. The broth is boiling. All that's left is for you to join the other Embers!"
+    VTuber, ramen chef, and fire hazard for your mind. I stream obscure indie games, blast wild tunes, and get possessed live by a fire daemon named Cal. The broth is boiling. All that's left is for you to join the other Embers!
+    
+    <iframe
+        src="https://player.twitch.tv/?channel=ramenferno&parent=www.ramenferno.com"
+        height="300"
+        width="100%"
+        allowfullscreen>
+    </iframe>
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -116,8 +123,23 @@ socials:
 # Footer text
 footer: >
     <div style="margin-top:2em;text-align:center">
-        <h3>Test Section</h3>
-        <p>Is the footer Markdown-aware?</p>
+        <h3><b>Art Credits</b></h3>
+        [Naraaa](https://vgen.co/naraaastudio)
+        [Ferno model](https://vgen.co/naraaastudio/portfolio/showcase/ramenferno-s-live2d-model/43047066-5386-49c3-8058-f45494d04ff1)
+        Emberpot model
+
+        [Patt](https://vgen.co/patheaple)
+        <i>Signal Flare</i> cover art
+        [VTuber Base](https://vgen.co/patheaple/product/vtuber-base-body-model-rendered-not-rigged-/91ac2484-fa75-494f-8add-6670d099566f) (used for concept art)
+        
+        [Eruru](https://vgen.co/Eruru)
+        [Flaming Bowl logo](https://vgen.co/Eruru/service/neon-sign-signature-watermark/a491f9ee-b519-4be5-8f86-2da7253b54ac)
+
+        [milaeshop](https://www.etsy.com/shop/milaeshop)
+        [Glowy chat widget](https://www.etsy.com/listing/4391673194/glowy-chat-widget-horizontal-and)
+        
+        [Shisma](https://commons.wikimedia.org/wiki/User:Shisma)
+        [Japanese Wave Pattern](https://commons.wikimedia.org/wiki/File:Japanese_Wave_Pattern.svg) ([License](https://creativecommons.org/licenses/by-sa/4.0/))
     </div>
 
 # Footer copyright message

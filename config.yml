@@ -92,12 +92,6 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-github"
-      url: "https://github.com/RamenFerno"
-      title: "RamenFerno GitHub Page"
-      alt: "RamenFerno GitHub Page"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-twitter"
       url: "https://twitter.com/@ramenferno"
       alt: "RamenFerno Twitter Page"
@@ -114,6 +108,12 @@ socials:
       url: "https://www.instagram.com/ramenferno"
       title: "RamenFerno Instagram Page"
       alt: "RamenFerno Instagram Page"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-github"
+      url: "https://github.com/RamenFerno"
+      title: "RamenFerno GitHub Page"
+      alt: "RamenFerno GitHub Page"
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"

@@ -130,7 +130,7 @@ playlist: >
 # Footer text
 footer: |
     <div style="margin-top:2em;text-align:center">
-        <h3><b>Credits</b></h3>
+        <h2><b>Credits</b></h2>
         <p>
             <a href="https://vgen.co/naraaastudio" target="_blank"><u><b>Naraaa</b></u></a><br>
             <a href="https://vgen.co/naraaastudio/portfolio/showcase/ramenferno-s-live2d-model/43047066-5386-49c3-8058-f45494d04ff1" target="_blank">Ferno model</a><br>

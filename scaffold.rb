@@ -64,7 +64,7 @@ end
 
 settings["twitch_embed"] = Liquid::Template.parse(settings["twitch_embed"]).render(settings) if settings["twitch_embed"]
 
-settings["twitch_embed"] = Liquid::Template.parse(settings["playlist"]).render(settings) if settings["playlist"]
+settings["playlist"] = Liquid::Template.parse(settings["playlist"]).render(settings) if settings["playlist"]
 
 if !settings["links"].nil?
   settings["links"].each_with_index do |link, index|

@@ -32,7 +32,7 @@ h1, h2, .name {
 }
 
 a {
-  color: #0C875A;
+  color: #00AF6F;
   text-decoration: none;
   transition: color 0.3s ease, text-shadow 0.3s ease;
 }
@@ -83,7 +83,7 @@ a:hover {
   align-items: center;
   gap: 10px;
   background-color: #00528A;
-  color: #0C875A;
+  color: #00AF6F;
   padding: 15px;
   border-radius: 8px;
   font-size: 18px;
@@ -140,12 +140,12 @@ a:hover {
   cursor: pointer;
   transition: transform 0.2s;
   background: none;
-  color: #0C875A;
+  color: #00AF6F;
 }
 
 .icon-button i {
   font-size: 24px;
-  color: #0C875A;
+  color: #00AF6F;
 }
 
 .icon-button:hover {
@@ -159,7 +159,7 @@ a:hover {
 
 .link-button-text {
   font-size: 14px;
-  color: #0C875A;
+  color: #00AF6F;
 }
 
 .copyright {

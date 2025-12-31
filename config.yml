@@ -52,13 +52,6 @@ twitch_embed: >
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-twitch"
-      text: "Twitch <span class='link-button-text'>(Streams start Fri-Sun at 10PM PST)</span>"
-      url: "https://twitch.tv/RamenFerno"
-      alt: "RamenFerno Twitch Channel"
-      title: "RamenFerno Twitch Channel"
-      target: "_blank"
-  - link:
       icon: "fa-brands fa-youtube"
       text: "YouTube <span class='link-button-text'>(Stream Highlights!)</span>"
       url: "https://www.youtube.com/@RamenFerno"
@@ -133,29 +126,29 @@ footer: |
     <div style="margin-top:2em;text-align:center">
         <h3><b>Credits</b></h3>
         <p>
-            <a href="https://vgen.co/naraaastudio" target="_blank"><u>Naraaa</u></a><br>
+            <a href="https://vgen.co/naraaastudio" target="_blank"><u><b>Naraaa</b></u></a><br>
             <a href="https://vgen.co/naraaastudio/portfolio/showcase/ramenferno-s-live2d-model/43047066-5386-49c3-8058-f45494d04ff1" target="_blank">Ferno model</a><br>
             Emberpot model
-        </p>
+        </p><br>
 
         <p>
-            <a href="https://vgen.co/patheaple" target="_blank"><u>Patt</u></a><br>
+            <a href="https://vgen.co/patheaple" target="_blank"><u><b>Patt</b></u></a><br>
             <em>Signal Flare</em> cover art<br>
             <a href="https://vgen.co/patheaple/product/vtuber-base-body-model-rendered-not-rigged-/91ac2484-fa75-494f-8add-6670d099566f" target="_blank">VTuber Base</a> (used for concept art)
-        </p>
+        </p><br>
 
         <p>
-            <a href="https://vgen.co/Eruru" target="_blank"><u>Eruru</u></a><br>
+            <a href="https://vgen.co/Eruru" target="_blank"><u><b>Eruru</b></u></a><br>
             <a href="https://vgen.co/Eruru/service/neon-sign-signature-watermark/a491f9ee-b519-4be5-8f86-2da7253b54ac" target="_blank">Flaming Bowl logo</a>
-        </p>
+        </p><br>
 
         <p>
-            <a href="https://www.etsy.com/shop/milaeshop" target="_blank"><u>milaeshop</u></a><br>
+            <a href="https://www.etsy.com/shop/milaeshop" target="_blank"><u><b>milaeshop</b></u></a><br>
             <a href="https://www.etsy.com/listing/4391673194/glowy-chat-widget-horizontal-and" target="_blank">Glowy chat widget</a>
-        </p>
+        </p><br>
 
         <p>
-            <a href="https://commons.wikimedia.org/wiki/User:Shisma" target="_blank"><u>Shisma</u></a><br>
+            <a href="https://commons.wikimedia.org/wiki/User:Shisma" target="_blank"><u><b>Shisma</b></u></a><br>
             <a href="https://commons.wikimedia.org/wiki/File:Japanese_Wave_Pattern.svg" target="_blank">Japanese Wave Pattern</a>
             (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">License</a>)
         </p>

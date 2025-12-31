@@ -29,8 +29,6 @@ tagline: >-
     VTuber, ramen chef, and fire hazard for your mind. I stream obscure indie games, blast wild tunes, and get possessed live by a fire daemon named Cal. The broth is boiling. All that's left is for you to join the other Embers!
           
 twitch_embed: >
-    <hr style="opacity:0.2;margin:2em 0;">
-    
     <div class="twitch-embed" style="margin-top:1em;text-align:center;">
         <iframe
           src="https://player.twitch.tv/?channel=ramenferno&parent=www.ramenferno.com"
@@ -40,8 +38,6 @@ twitch_embed: >
           style="border-radius:12px;max-width:600px;">
         </iframe>
     </div>
-
-    <hr style="opacity:0.2;margin:2em 0;">
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)

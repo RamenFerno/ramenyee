@@ -25,15 +25,26 @@ body {
 }
 
 h1, h2, .name {
+  font-family: 'Audiowide', sans-serif;
+  color: #BE2313;
   text-shadow:
     0 0 6px rgba(255, 90, 30, 0.6),
     0 0 12px rgba(255, 90, 30, 0.3);
 }
 
 a {
-  color: inherit;
+  color: #0C875A;
   text-decoration: none;
-  transition: color 0.3s;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+a:hover {
+  color: #ffd9b3;
+  text-shadow: 0 0 8px rgba(129, 223, 182, 0.7);
+}
+
+a:visited {
+  color: #ffd9b3;
 }
 
 .container {
@@ -92,7 +103,6 @@ a {
 .footer {
   margin-top: 40px;
   font-size: 14px;
-  color: #777;
 }
 
 .button-container {

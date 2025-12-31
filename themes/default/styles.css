@@ -28,7 +28,7 @@ body {
 
 h1, h2, .name {
   font-family: 'Audiowide', sans-serif;
-  color: #BE2313;
+  color: #e92308;
 }
 
 a {
@@ -59,7 +59,7 @@ a:hover {
 }
 
 .name {
-  font-size: 28px;
+  font-size: 42px;
   font-weight: bold;
   margin: 10px 0;
 }

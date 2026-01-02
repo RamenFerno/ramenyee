@@ -128,7 +128,7 @@ playlist: >
 # Footer text
 footer: |
     <div style="margin-top:2em;text-align:center">
-        <h1><b><u>Credits</u></b></h1><br>
+        <h1><b>Credits</b></h1><br>
         <h2><b>Art</b></h2>
         <p>
             <h3><a href="https://vgen.co/naraaastudio" target="_blank"><u><b>Naraaa</b></u></a></h3>
@@ -161,8 +161,8 @@ footer: |
         <h2><b>Music</b></h2>
         <p>
             <h3><a href="https://music.youtube.com/playlist?list=PLaN19gIKi5ZrjNT-KAuFeB82fmykcF8bK" target="_blank"><u><b>Camellia DMCA-Free Music</b></u></a></h3>
-            (<a href="https://cametek.jp/songuse_en.html" target="_blank">Song Use Policy</a>)<br>
-        </p>
+            (<a href="https://cametek.jp/songuse_en.html" target="_blank">Song Use Policy</a>)
+        </p><br>
 
         <p>
             <h3><a href="https://www.youtube.com/playlist?list=PLkE33Kq890I8jm5ybwzRTMiC5WTspwDi3" target="_blank"><u><b>List of available t+pazolite music</b></u></a></h3>

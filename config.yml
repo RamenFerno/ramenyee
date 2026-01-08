@@ -75,14 +75,6 @@ links:
       alt: "Ferno VSona Page"
       title: "RamenFerno VSona Page"
       target: "_blank"
-  - link:
-      icon: "fa-classic fa-gift"
-      text: "Throne <span class='link-button-text'>(Thank you so much!)</span>"
-      url: "https://throne.com/ramenferno"
-      alt: "RamenFerno's Throne Wishlist"
-      title: "RamenFerno's Throne Wishlist"
-      target: "_blank"
-
 
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)

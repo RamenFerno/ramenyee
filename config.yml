@@ -84,12 +84,6 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/@ramenferno"
-      alt: "RamenFerno Twitter Page"
-      title: "RamenFerno Twitter Page"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/ramenferno.com"
       alt: "RamenFerno Bluesky Page"

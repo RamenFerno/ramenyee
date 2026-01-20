@@ -68,13 +68,6 @@ links:
       alt: "Emberpot Discord Server"
       title: "Emberpot Discord Server"
       target: "_blank"
-  - link:
-      icon: "fa-solid fa-heart"
-      text: "VSona <span class='link-button-text'>(Submit Fan Art!)</span>"
-      url: "https://vsona.co/ferno"
-      alt: "Ferno VSona Page"
-      title: "RamenFerno VSona Page"
-      target: "_blank"
 
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)

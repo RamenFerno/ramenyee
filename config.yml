@@ -55,18 +55,11 @@ links:
       title: "RamenFerno YouTube Channel"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-tiktok"
-      text: "TikTok <span class='link-button-text'>(Stream Highlights!)</span>"
-      url: "https://www.tiktok.com/@ramenferno"
-      alt: "RamenFerno TikTok Page"
-      title: "RamenFerno TikTok Page"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-discord"
-      text: "Discord <span class='link-button-text'>(Join the Emberpot!)</span>"
-      url: "https://discord.gg/HrmQAEdTcV"
-      alt: "Emberpot Discord Server"
-      title: "Emberpot Discord Server"
+      icon: "fa-brands fa-steam"
+      text: "Steam Group <span class='link-button-text'>(Join the Emberpot!)</span>"
+      url: "https://steamcommunity.com/groups/RamenFerno"
+      alt: "Emberpot Steam Group"
+      title: "Emberpot Steam Group"
       target: "_blank"
 
 # List of social media links
@@ -81,6 +74,12 @@ socials:
       url: "https://bsky.app/profile/ramenferno.com"
       alt: "RamenFerno Bluesky Page"
       title: "RamenFerno Bluesky Page"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-tiktok"
+      url: "https://www.tiktok.com/@ramenferno"
+      title: "RamenFerno TikTok Page"
+      alt: "RamenFerno TikTok Page"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"

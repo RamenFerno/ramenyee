@@ -12,7 +12,7 @@
 
 /* Light mode (default) */
 body {
-  background: url('./images/BG.jpg') center top / cover no-repeat fixed;
+  background: url('./images/BG2.jpg') center top / cover no-repeat fixed;
   background-color: #ffffff;
   color: #000000;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.75);

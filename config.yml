@@ -49,7 +49,7 @@ twitch_embed: >
 links:
   - link:
       icon: "fa-brands fa-youtube"
-      text: "YouTube <span class='link-button-text'>(Stream Highlights!)</span>"
+      text: "YouTube <span class='link-button-text'>(See what I'm all about!)</span>"
       url: "https://www.youtube.com/@RamenFerno"
       alt: "RamenFerno YouTube Channel"
       title: "RamenFerno YouTube Channel"
